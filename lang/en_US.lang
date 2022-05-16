@@ -1,0 +1,7 @@
+#shaders/lang/en_us.lang
+
+option.mode= Color Blindness Type
+option.mode.comment= Select your colorblindness, take an Ishihara test online to check what type suits you.
+value.mode.0= Protanopia
+value.mode.1= Deuteranopia
+value.mode.2= Tritanopia
